@@ -26,10 +26,3 @@ for i in range(3):
         final_df[y_label] = y_data
     except:
         break
-
-#%%
-import matplotlib.pyplot as plt
-#%%
-plt.plot(y_data)
-#%%
-plt.show()
